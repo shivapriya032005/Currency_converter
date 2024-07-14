@@ -8,7 +8,7 @@ A simple web-based currency converter application using HTML, CSS, and JavaScrip
 
 This application allows users to convert between different currencies using real-time exchange rates fetched from an API. It features a straightforward interface where users can input an amount, select the currency they want to convert from, and choose the currency they want to convert to.
 
-![Currency Converter Screenshot](currency-converter-screenshot.png)
+
 
 ## Features
 
